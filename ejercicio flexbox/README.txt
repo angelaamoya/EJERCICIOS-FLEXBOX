@@ -24,3 +24,4 @@ Jerarquía de selectores de css
 id > class > tag (etiqueta) > *
 
 Para poner el console.log darle al log y a enter
+flex direction revrse orden al reves 
