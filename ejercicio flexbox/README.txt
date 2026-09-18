@@ -25,3 +25,5 @@ id > class > tag (etiqueta) > *
 
 Para poner el console.log darle al log y a enter
 flex direction revrse orden al reves 
+ademas de flexbok tb puedes expresarlo con çgrid
+desarrolllo del funcionamient del flexbox
